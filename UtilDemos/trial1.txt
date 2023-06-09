@@ -1,0 +1,2 @@
+Hello world. Great Day.
+Java NIO (New IO) is an alternative IO API for Java, meaning alternative toHellostandard Java IO and Java Networking API's. Java NIO offers a different IO programming model than the traditional IO APIs. Note: Sometimes NIO is claimed to mean Non-blocking IO. However, this is not what NIO meant originally. Also, parts of the NIO APIs are actually blocking - e.g. the file APIs - so the label "Non-blocking" would be slightly misleading.
