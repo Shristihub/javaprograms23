@@ -1,0 +1,89 @@
+Hello This is java training!!!!!
+ Java 8 Features: 
+What's new in Interfaces
+• Static Methods
+• Default Methods
+• Functional Interfaces
+Introducing Lambda Expressions
+• Motivation for Lambdas
+• Lambda Expression Overview
+• Lambda Expressions and Functional
+Interfaces
+• Using Lambda Expressions
+• Working with Method References
+JAVA NIO
+Java NIO: Channels and Buffers
+Java NIO: Non-blocking IO
+Java NIO: Selectors
+
+Collection with Uniqueness: Sets
+• Introduction
+• Set Implementations
+• SortedSet and NavigableSet
+Sorting Techniques With Comparable and
+Comparator interface
+Collections of Pairs: Maps
+• Introduction
+• Why Use a Map?
+• Views Over Maps
+Java Generics
+JNI
+JNI Overview
+JNI Components
+jNI Development (Java)
+Performance Tuning
+Java Garbage Collector
+JVM Heap
+Java Performance Tuning Tips
+Java 9 Features:
+Platform Module System (Project Jigsaw)
+Interface Private Methods
+Try-With Resources
+Anonymous Classes
+@SafeVarargs Annotation
+Collection Factory Methods
+Process API Improvement
+New Version-String Scheme
+JShell: The Java Shell (REPL)
+Process API Improvement
+Control Panel
+Stream API Improvement
+
+'Java 10 Features:
+Local-Variable Type Inference
+Consolidate the JDK Forest into a Single Repository
+Garbage-Collector Interface
+Parallel Full GC for G1
+Application Class-Data Sharing
+Thread-Local Handshakes
+Remove the Native-Header Generation Tool (javah)
+Additional Unicode Language-Tag Extensions
+Heap Allocation on Alternative Memory Devices
+Experimental Java-Based JIT Compiler
+Root Certificates
+Java 11 Features
+ Running Java File with single command
+Java String Methods
+Local-Variable Syntax for Lambda Parameters
+Nested Based Access Control
+Spring Basics:
+What is Spring framework?
+Inversion of Control and Dependency Injection
+Writing Programs using Spring framework
+DI: Setter based and constructor based
+Auto wiring
+Annotation based DI
+AOP Overview
+Aspects, joint Point, Advice, Point Cut, Target object, AOP Proxy, weaving
+Types of Advices: before, after, after-returning, after-throwing,around
+Spring MVC
+What is Spring MVC?
+About DispatcherServlet
+Flow of Spring MVC
+Developing Web applications using Spring MVC using Apache Tomcat Server
+Spring MVC with JDBC (ORACLE DB) – DataBase programming
+Introduction to Spring Boot
+About MAVEN tool (for build and dependency management)
+Different methods of creating Spring Boot applications
+Developing Spring Boot applications using STS (Spring Tool Suite IDE)
+Developing REST API using Spring Boot (CRUD operations)
